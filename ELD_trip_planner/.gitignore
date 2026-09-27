@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+env/
+.env
+
+# Django
+db.sqlite3
+db.sqlite3-journal
+staticfiles/
+media/
+
+# Node / Next.js
+node_modules/
+dist/
+.next/
+.vercel/
+.vite/
+.DS_Store
+
+# Editors
+.idea/
+.vscode/
+*.swp
